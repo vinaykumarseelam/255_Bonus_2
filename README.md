@@ -32,12 +32,6 @@ The model that was trained in the preceding phase has been downloaded and stored
 ![alt](https://github.com/vinaykumarseelam/255_Bonus_2/blob/main/bonusComparison.png)
 
 
-The UI screens would look as shown below.
-
-![alt](https://github.com/vinaykumarseelam/255_Bonus_2/blob/main/Screenshot_1.png)
-![alt](https://github.com/vinaykumarseelam/255_Bonus_2/blob/main/Screenshot_2.png)
-![alt](https://github.com/vinaykumarseelam/255_Bonus_2/blob/main/Screenshot_3.png)
-
 
 
 
